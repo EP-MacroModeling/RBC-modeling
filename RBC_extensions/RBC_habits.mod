@@ -1,5 +1,5 @@
 % =========================================================================
-% Baseline NON-Linear RBC Habits - Macro II, PhD - Albonico Slides Notation
+% Baseline NON-Linear RBC Habits - Esposito, Pollastri (2025)
 % =========================================================================
 % The GHH Utility specification:
 %
